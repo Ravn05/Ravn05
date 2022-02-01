@@ -1,5 +1,5 @@
 /*
- * Denne koden viser Humidity og temperatur på en LCDskjærm fra en DHT11sensor
+ * Denne koden viser Humidity og temperatur på en LCDskjærm fra en DHT11sensor, ok
  */
 
 #include "DHT.h"
